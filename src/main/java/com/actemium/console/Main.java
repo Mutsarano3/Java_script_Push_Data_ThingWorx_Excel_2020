@@ -34,7 +34,7 @@ public class Main {
     //095323fa-72b0-40dd-bb1d-a623576ea771
     //pp-2003061027pr.devportal.ptc.io
 
-    //BY STAGIAIRE
+    //BY CHIARELLI Thomas
     public static void main(String[] args) throws IOException, InterruptedException {
         
         Scanner sc = new Scanner(System.in);
